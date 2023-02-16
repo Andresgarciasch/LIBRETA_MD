@@ -1,0 +1,1 @@
+En registry/serializer.py averiguar porque if self.instance.test_visibility != 'OK':
